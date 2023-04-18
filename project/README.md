@@ -1,4 +1,4 @@
-# hobbymate
+# project
 
 A new Flutter project.
 
